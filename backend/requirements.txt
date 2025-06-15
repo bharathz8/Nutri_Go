@@ -1,0 +1,10 @@
+fastapi
+pydantic
+requests
+pillow
+python-dotenv
+sqlalchemy
+uvicorn
+dotenv
+requests
+imagine 
