@@ -8,3 +8,4 @@ uvicorn
 dotenv
 requests
 imagine 
+python-multipart
